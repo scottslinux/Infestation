@@ -4,6 +4,7 @@
 
 Texture2D insect::bug;           //reserves memory for the static var
 bool insect::isSpritesheetLoaded=false;
+//also sent this to github...and back
 
 //=====================================================
 //                      constructor
