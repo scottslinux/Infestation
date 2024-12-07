@@ -5,8 +5,6 @@
 #include <math.h>
 #include "swarm.h"
 
-//git test
-
 
 Texture2D Hero::heroimage;
 bool Hero::isSpritesheetLoaded=false;
